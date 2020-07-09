@@ -1,4 +1,1 @@
-jeffblankenburg
-===============
-
-Is this the real life?
+Software Developer | Voice/Chat Designer | Builder of Things | Evangelist
